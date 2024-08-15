@@ -285,9 +285,9 @@ end
 
 declare(features, "visuals", {
 	["enabled"] = true,
-	["teamCheck"] = false,
+	["teamCheck"] = true,
 	["teamColor"] = true,
-	["renderDistance"] = 2000,
+	["renderDistance"] = 500,
 
 	["boxes"] = {
 		["enabled"] = true,
